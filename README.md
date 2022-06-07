@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yito7
-- 👀 I’m interested in  c# web dev und spiel dev
-- 🌱 I’m currently learning  C# programmieren
+- 👀 I’m interested in  c#, web dev and game dev
+- 🌱 I’m currently learning  angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
